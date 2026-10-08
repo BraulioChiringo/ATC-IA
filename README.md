@@ -23,7 +23,7 @@ ATC IA is an AI air traffic controller for **Microsoft Flight Simulator**. You t
 1. Download `ATC-IA-Setup-vX.exe` from the **Releases** page (right side of this page).
 2. Windows may show a blue warning (**"Windows protected your PC"**) because the installer is not code-signed yet. Click **More info → Run anyway**.
 3. In the installer pick your language (top right) and press **Install**. It downloads voices and data (about 2-3 GB the first time).
-4. Open **ATC IA** from the desktop. The first time it shows a **machine code**. Type your name and contact and press **Request key**: I will send you a key that works on your PC only. Paste it and press **Activate**.
+4. **Join the beta Discord server:** https://discord.gg/BZ8nH58CwX . Then open **ATC IA** from the desktop: the first time it shows a **machine code**. Type your name and your **Discord username**, press **Request key**, and your key arrives as a **private message** (it works on your PC only). Paste it and press **Activate key**.
 5. Enter your SimBrief ID, press **Fetch latest plan**, and **Start ATC**.
 
 You need: Windows 10/11, MSFS 2020, a microphone, about 4 GB free, and a "brain" for ATC (a Claude API key, paid, cents per flight; or Ollama, free but heavy).
@@ -54,7 +54,7 @@ ATC IA es un controlador aéreo con inteligencia artificial para **Microsoft Fli
 1. Descarga `ATC-IA-Setup-vX.exe` desde la página de **Releases** (a la derecha de esta página).
 2. Windows puede mostrar un aviso azul (**«Windows protegió su PC»**) porque el instalador todavía no está firmado. Pulsa **Más información → Ejecutar de todas formas**.
 3. En el instalador elige el idioma (arriba a la derecha) y pulsa **Instalar**. Descarga voces y datos (unos 2-3 GB la primera vez).
-4. Abre **ATC IA** desde el escritorio. La primera vez te muestra un **código de equipo**. Escribe tu nombre y contacto y pulsa **Solicitar clave**: te mandaré una clave que solo vale en tu PC. Pégala y pulsa **Activar**.
+4. **Entra en el servidor de Discord de la beta:** https://discord.gg/BZ8nH58CwX . Luego abre **ATC IA** desde el escritorio: la primera vez te muestra un **código de equipo**. Escribe tu nombre y tu **usuario de Discord**, pulsa **Solicitar clave** y te llega la clave por **mensaje privado** (solo vale en tu PC). Pégala y pulsa **Activar clave**.
 5. Escribe tu ID de SimBrief, pulsa **Traer último plan** e **Iniciar ATC**.
 
 Necesitas: Windows 10/11, MSFS 2020, un micrófono, unos 4 GB libres y un «cerebro» para el ATC (una clave de la API de Claude, de pago, céntimos por vuelo; u Ollama, gratis pero pesado).
